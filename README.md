@@ -34,3 +34,7 @@ Welcome to the Sumo PICwarrior project! This repository houses the source code a
 
 
 # Other
+- Our Youtube video :
+- Our Report :
+- Our Poster :
+-  
