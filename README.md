@@ -8,3 +8,6 @@ This repository contains the source code and documentation for the Sumo Robot pr
 - <span style="color:blue">[Usage](#usage)</span>
 - <span style="color:blue">[Contributing](#contributing)</span>
 - <span style="color:blue">[License](#license)</span>
+
+# Requirements
+PIC16F877A microcontroller
