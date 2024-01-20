@@ -21,4 +21,4 @@ CRYSTAL Oscillator
 EasyPIC to test
 
 # Hardware Setup
-![Hardware Setup](Inshasi/Sumo_PICwarrior/blob/main/picWorriorCircuit.png)
+![Hardware Setup](picWorriorCircuit.png)
