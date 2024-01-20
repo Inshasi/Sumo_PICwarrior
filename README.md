@@ -34,7 +34,7 @@ Welcome to the Sumo PICwarrior project! This repository houses the source code a
 
 
 # Other
-- Our Youtube video :
+- Our Youtube video : https://youtu.be/kKgIpCF7U9g?si=abiFl21MEo4__1gd
 - Our Report :
 - Our Poster :
-- Pictures : 
+- Pictures : <span style="color:blue">[Code](Pictures)</span>
