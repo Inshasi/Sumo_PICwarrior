@@ -1,5 +1,5 @@
 # Sumo PICwarrior
-This repository contains the source code and documentation for the Sumo Robot project. The project aims to create an autonomous sumo robot using the PIC16F877A microcontroller.
+Welcome to the Sumo PICwarrior project! This repository houses the source code and documentation for our autonomous sumo wrestling robot, powered by the PIC16F877A microcontroller. What sets our project apart is its dual control modes: first, it can be remotely controlled via Bluetooth for real-time manual precision, and second, it exhibits autonomy using onboard sensors, including infrared and proximity sensors, enabling independent decision-making. The repository includes the PIC16F877A source code, hardware specifications, and documentation. 
 
 # Table of Contents
 - <span style="color:blue">[Requirements](#requirements)</span>
@@ -23,4 +23,4 @@ This repository contains the source code and documentation for the Sumo Robot pr
 
 # Software Setup
 - Press here to redirect to Our code
-- ![Software Setup](Sumo)
+  ![Software Setup](Sumo)
