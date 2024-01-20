@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo10 -N"C:\Users\Mo Inshasi\Desktop\Sumo\SUMO.mcppi" -SP"C:\Users\New\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\New\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Mo Inshasi\Desktop\Sumo\" -IP"C:\Users\New\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "SUMO.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	SUMO.c
+warning: 184	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	SUMO.c
+diagnostics: 204	123	Compiled Successfully	SUMO.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 17 (5%)  Free RAM (bytes): 335 (95%)	Used RAM (bytes): 17 (5%)  Free RAM (bytes): 335 (95%)
+hint: 0	1144	Used ROM (program words): 727 (9%)  Free ROM (program words): 7465 (91%)	Used ROM (program words): 727 (9%)  Free ROM (program words): 7465 (91%)
+diagnostics: 0	125	Project Linked Successfully	SUMO.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'SUMO.mcppi' completed: 266 ms	 
+diagnostics: 0	103	Finished successfully: 20 Jan 2024, 18:41:24	SUMO.mcppi

@@ -1,0 +1,22 @@
+main
+	__CC2DW
+		____DoICP
+	PWM_Init
+	Bluetooth_Init
+		UART1_Init
+		ourDelay
+	ADC_Init
+	ADC_Read_0
+	ourDelay
+	moveForward
+		PWM_Duty
+	moveLeft
+		PWM_Duty
+	moveRight
+		PWM_Duty
+	moveBackward
+		PWM_Duty
+	Park
+		PWM_Duty
+	UART1_Data_Ready
+	UART1_Read
