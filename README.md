@@ -5,9 +5,7 @@ This repository contains the source code and documentation for the Sumo Robot pr
 - <span style="color:blue">[Requirements](#requirements)</span>
 - <span style="color:blue">[Hardware Setup](#hardware-setup)</span>
 - <span style="color:blue">[Software Setup](#software-setup)</span>
-- <span style="color:blue">[Usage](#usage)</span>
-- <span style="color:blue">[Contributing](#contributing)</span>
-- <span style="color:blue">[License](#license)</span>
+- <span style="color:blue">[Other](#other)</span>
 
 # Requirements
 - PIC16F877A microcontroller
@@ -24,4 +22,5 @@ This repository contains the source code and documentation for the Sumo Robot pr
 ![Hardware Setup](picWorriorCircuit.png)
 
 # Software Setup
+-Press here to redirect to Our code
 ![Software Setup](Sumo)
