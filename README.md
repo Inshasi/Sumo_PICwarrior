@@ -23,4 +23,4 @@ Welcome to the Sumo PICwarrior project! This repository houses the source code a
 
 # Software Setup
 - Press here to redirect to Our code
-- <span style="color:blue">[Code](#Sumo)</span>
+- <span style="color:blue">[Code](Sumo)</span>
