@@ -23,4 +23,4 @@ Welcome to the Sumo PICwarrior project! This repository houses the source code a
 
 # Software Setup
 - Press here to redirect to Our code
-  ![Software Setup](Sumo)
+  ![Our Code](Sumo)
