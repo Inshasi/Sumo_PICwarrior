@@ -24,4 +24,4 @@ This repository contains the source code and documentation for the Sumo Robot pr
 ![Hardware Setup](picWorriorCircuit.png)
 
 # Software Setup
-![Hardware Setup](Sumo)
+![Software Setup](Sumo)
