@@ -22,5 +22,7 @@ Welcome to the Sumo PICwarrior project! This repository houses the source code a
 ![Hardware Setup](picWorriorCircuit.png)
 
 # Software Setup
-- Press here to redirect to Our code
+- Press here to redirect to Our
  <span style="color:blue">[Code](Sumo)</span>
+
+# Other
