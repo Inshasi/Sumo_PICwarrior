@@ -10,15 +10,15 @@ This repository contains the source code and documentation for the Sumo Robot pr
 - <span style="color:blue">[License](#license)</span>
 
 # Requirements
-PIC16F877A microcontroller
-Sensors (3 IR sensors, 2 line sensors)
-2 Motors
-Motor Driver(H-Bridge)
-Potentiometer
-Bluetooth HC-06
-CRYSTAL Oscillator
-12V Battery
-EasyPIC to test
+1. PIC16F877A microcontroller
+2. Sensors (3 IR sensors, 2 line sensors)
+3. 2 Motors
+4. Motor Driver(H-Bridge)
+5. Potentiometer
+6. Bluetooth HC-06
+7. CRYSTAL Oscillator
+8. 12V Battery
+9. EasyPIC to test
 
 # Hardware Setup
 ![Hardware Setup](picWorriorCircuit.png)
